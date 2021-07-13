@@ -1,1 +1,1 @@
-FROM FROM gcr.io/ml-pipeline/cache-server:1.5.0
+FROM gcr.io/ml-pipeline/cache-server:1.5.0
